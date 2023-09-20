@@ -23,7 +23,7 @@ In real projects, before setting desired tasks we have to show monitoring charts
 
 1- ssh to our instance and install that package  and write command based on your plan which you set scaling in ASG
   1.  Install stress in Amazon linux
-  2.  sudo amazon-linux-extras install epel -y && sudo yum install stress -y![logo white bg](https://github.com/nurilloh2004/flask-hello-world/assets/88767460/03989b22-24f0-4b1f-9ce7-7a6381ca7ae1)
+  2.  sudo amazon-linux-extras install epel -y && sudo yum install stress -y
 
   3.  stress --cpu 4 --timeout 360
   4.  in this command you can change CPU count and timeout(s)
@@ -31,3 +31,6 @@ In real projects, before setting desired tasks we have to show monitoring charts
 
 
 *The video does not contain stress test part.  Confirmation of visa card required for certain AWS services, namely CloudWatch, CodeBuild runtime, and Cluster containers with EC2.
+
+
+![logo white bg](https://github.com/nurilloh2004/flask-hello-world/assets/88767460/03989b22-24f0-4b1f-9ce7-7a6381ca7ae1)
