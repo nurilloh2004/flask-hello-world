@@ -26,4 +26,7 @@ In real projects, before setting desired tasks we have to show monitoring charts
   2.  sudo amazon-linux-extras install epel -y && sudo yum install stress -y
   3.  stress --cpu 4 --timeout 360
   4.  in this command you can change CPU count and timeout(s)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+Some AWS services in not working perfectly Which they are  CloudWatch, CodeBuild run time, Cluster conteiners with EC2 . Because of this in my AWS account didn't complate (VISA and other credentials).
