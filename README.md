@@ -29,4 +29,4 @@ In real projects, before setting desired tasks we have to show monitoring charts
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Some AWS services in not working perfectly Which they are  CloudWatch, CodeBuild run time, Cluster conteiners with EC2 . Because of this in my AWS account didn't complate (VISA and other credentials).
+*The video does not contain stress test part.  Confirmation of visa card required for certain AWS services, namely CloudWatch, CodeBuild runtime, and Cluster containers with EC2.
