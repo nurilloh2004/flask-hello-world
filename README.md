@@ -22,3 +22,8 @@ In real projects, before setting desired tasks we have to show monitoring charts
 ! Stress test
 
 1- ssh to our instance and install that package  and write command based on your plan which you set scaling in ASG
+  1.  Install stress in Amazon linux
+  2.  sudo amazon-linux-extras install epel -y && sudo yum install stress -y
+  3.  stress --cpu 4 --timeout 360
+  4.  in this command you can change CPU count and timeout(s)
+
